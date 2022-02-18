@@ -10,4 +10,4 @@ CC08 : Robert C. Martin Clean Code： A Handbook of Agile Software Craftsmanship
 
 [iter() 함수 파이썬 문서](https://docs.python.Org/3/library/functions.html#iter)
 
-[CPython과 PyPy의 차이](https：//pypy.readthedocs.io/en/latest/cpython_differences.html#subclasses—of—built—in—types)
+[CPython과 PyPy의 차이](https://doc.pypy.org/en/latest/cpython_differences.html#subclasses%E2%80%94of%E2%80%94built%E2%80%94in%E2%80%94types))
