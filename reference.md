@@ -34,4 +34,10 @@ Object-Oriented Software Construction, Second Edition, written by Bertrand Meyer
 
 코드 컴플리트 2 (더 나은 소프트웨어 구현을 위한 실무 지침서): Code Complete written by Steve McConnell
 
-# 
+## 4장
+
+[SRP 01: SRT (Single Responsibility Principle) 원칙](https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html)
+
+[PEP-3119: 추상 기본 클래스 소개](https://www.python.org/dev/peps/pep-3119/)
+
+LISKOV 01: Barbara Liskov의 Data Abstraction and Hierarchy
