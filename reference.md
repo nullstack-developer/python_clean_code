@@ -15,14 +15,23 @@ CC08 : Robert C. Martin Clean Code: A Handbook of Agile Software Craftsmanship
 ## 3장
 
 Object-Oriented Software Construction, Second Edition, written by Bertrand Meyer
+
 실용주의 프로그래머(The Pragmatic Programmer: From Journeyman to Master) by Andrew Hunt and David Thomas
+
 [PEP-316: 파이썬을 위한 계약에 의한 프로그래밍](https://www.python.org/dev/peps/pep-0316/)
+
 [REAL 01： 가장 악마스러운 파이썬 안티패턴](https://realpython.com/the-most-diabolical-python-antipattern/)
+
 [PEP-3134: 예외 연결과 traceback 포함](https://www.python.org/dev/peps/pep-3134/)
+
 [이상적인 파이썬 : EAFP vs LBYL](https://blogs.msdn.microsoft.com/pythonengineering/2016/06/29/idiomatic-python-eafp-versus-lbyl/)
+
 [컴포지션 vs 상속 : 어떤 기준으로 선택해야 할까?](https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose)
+
 [파이썬 HTTP](https://docs.python.Org/3/library/http.server.html#http.server.BaseHTTPRequestHandler)
+
 [requests 라이브러리의 예외 소스 참조](http://docs.python-requests.org/en/master/_modules/requests/exceptions/)
+
 코드 컴플리트 2 (더 나은 소프트웨어 구현을 위한 실무 지침서): Code Complete written by Steve McConnell
 
 # 
