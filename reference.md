@@ -41,3 +41,22 @@ Object-Oriented Software Construction, Second Edition, written by Bertrand Meyer
 [PEP-3119: 추상 기본 클래스 소개](https://www.python.org/dev/peps/pep-3119/)
 
 LISKOV 01: Barbara Liskov의 Data Abstraction and Hierarchy
+
+## 5장
+
+[PEP-318: 함수와 메서드를 위한 데코레이터](https://www.python.org/dev/peps/pep-0318/)
+
+[PEP-3129: 클래스 데코레이터](https://www.python.org/dev/peps/pep-3129/)
+
+[WRAPT 01](https://pypi.org/project/wrapt/)
+
+[WRAPT 02](https://wrapt.readthedocs.io/en/latest/decorators.html#universal-decorators)
+
+[Functools 모듈: 파이썬 표준 라이브러리 functools 모듈의 wraps 함수](https://docs.python.Org/3/library/functools.html#functools.wraps)
+
+[ATTRS 01: attrs 라이브러리](https://pypi.org/project/attrs/)
+
+[PEP-557 : Data 클래스](https://www.python.org/dev/peps/pep-0557/)
+
+GLASS 01: Robert L. Glass의 소프트웨어 공학의 사실과 오류 (Facts and Fallacies of Software
+Engineering)
