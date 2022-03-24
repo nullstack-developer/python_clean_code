@@ -60,3 +60,11 @@ LISKOV 01: Barbara Liskov의 Data Abstraction and Hierarchy
 
 GLASS 01: Robert L. Glass의 소프트웨어 공학의 사실과 오류 (Facts and Fallacies of Software
 Engineering)
+
+## 6장
+
+[파이썬의 디스크립터 공식 문서](https://docs.python.Org/3/reference/datamodel.html#implementing-descriptors)
+
+[WEAKREF 01: 파이썬 weakref 모듈](https://docs.python.Org/3/library/weakref.html)
+
+[PYDESCR-02: 디스크립터를 사용한 빌트인 데코레이터](https://docs.python.Org/3/howto/descriptor.html#static-methods-and-class-methods)
