@@ -68,3 +68,26 @@ Engineering)
 [WEAKREF 01: 파이썬 weakref 모듈](https://docs.python.Org/3/library/weakref.html)
 
 [PYDESCR-02: 디스크립터를 사용한 빌트인 데코레이터](https://docs.python.Org/3/howto/descriptor.html#static-methods-and-class-methods)
+
+## 7장
+
+[PEP-234: 이터레이터](https://www.python.org/dev/peps/pep-0234/)
+
+[PEP-255: 간단한 제너레이터](https://www.python.org/dev/peps/pep-0255/)
+
+[ITER-01: 파이썬 itertools 모듈](https://docs.python.org/3/library/itertools.html)
+
+GoF : GoF의 디자인 패턴 재사용성을 지닌 객체지향 소프트웨어의 핵심요소 (The book written byErich Gamma, Richard Helm, Ralph Johnson, John Vlissides named Design Patterns: Elements of Reusable Object-Oriented Software)
+
+[PEP-342: 향상된 제너레이터를 통한 코루틴](http://www.python.org/dev/peps/pep-0342/)
+
+PYCOOK: Python Cookbook Python 3를 정복하기 위한 보약 같은 레시피 (The book written by
+Brian Jones, David Beazley named Python Cookbook: Recipes for Mastering Python 3, Third Edition)
+
+[PY99: 가짜 스레드(제너레이터, 코루틴, 컨티뉴에이션-continuation](https://mail.python.org/pipermail/python-dev/1999-July/000467.html)
+
+[CORO-01: 코루틴 - Co Routine](http://wiki.c2.com/?CoRoutine)
+
+[C0R0-02: 제너레이터는 코루틴이 아니다.](http://wiki.c2.com/?GeneratorsAreNotCoroutines)
+
+[TEE : itertools.tee 함수](https://docs.python.Org/3/library/itertools.html#itertools.tee)
