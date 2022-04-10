@@ -91,3 +91,32 @@ Brian Jones, David Beazley named Python Cookbook: Recipes for Mastering Python 3
 [C0R0-02: 제너레이터는 코루틴이 아니다.](http://wiki.c2.com/?GeneratorsAreNotCoroutines)
 
 [TEE : itertools.tee 함수](https://docs.python.Org/3/library/itertools.html#itertools.tee)
+
+## 8장
+
+[파이썬 표준 라이브러리 unittest 모듈을 사용하여 테스트 스위트 만드는 방법](https://docs.python.Org/3/library/unittest.html)
+
+[Hypothesis 라이브러리 공식 문서](https://hypothesis.readthedocs.io/en/latest/)
+
+[pytest 라이브러리 공식 문서](https://docs.pytest.org/en/latest/)
+
+성당과 시장 (The Cathedral and the Bazaar： Musings on Linux and Open Source by an Accidental Revolutionary (CatB), written by Eric S. Raymond - publisher O’Reilly Media, 1999)
+
+## 9장
+
+GoF의 디자인 패턴 : 재사용성을 지닌 객체지향 소프트웨어의 핵심요소(Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides)
+
+SNGMONO: An article written by Robert C. Martin, 2002 named SINGLETON and MONOSTATE
+
+The Null Object Pattern(저자 Bobby Woolf)
+## 10장
+
+[SCREAM: 스크리밍 아키텍처](https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html)
+
+[CLEAN-0 1: 클린 아키텍처](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+[HEX: 육각형 아키텍처 Hexagonal Architecture](https://alistair.cockburn.us/hexagonal-architecture/)
+
+[PEP-508: 파이썬 소프트웨어 패키지를 위한 의존성 명세](https://www.python.org/dev/peps/pep-0508/)
+
+[파이썬 프로젝트 패키징과 배포](https://packaging.python.org/en/latest/guides/distributing-packages-using-setuptools/)
